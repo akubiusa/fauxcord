@@ -195,8 +195,8 @@ importers:
         version: 8.23.0
     devDependencies:
       '@book000/eslint-config':
-        specifier: 1.16.125
-        version: 1.16.125(eslint@10.14.0)(typescript@6.0.3)
+        specifier: 1.17.0
+        version: 1.17.0(eslint@10.14.0)(typescript@6.0.3)
       '@types/better-sqlite3':
         specifier: 9.6.0
         version: 9.6.0
@@ -254,8 +254,8 @@ packages:
     resolution: {integrity: sha512-6zABk/ECA/QYSCQ1NGiVwwbQerUCZ+TQbp64Q3AgmfNvurHH0j8TtXa1qbShXA6qqkpAj4V5W8pP6mLe1mcMqA==}
     engines: {node: '>=18'}
 
-  '@book000/eslint-config@1.16.125':
-    resolution: {integrity: sha512-Wnab6p01tP6Rzxf1Jox6qIBYaRg8pYAlhUQVSHJmOrHA3RuOFZ2cxpvymMJIu0aZ7Ey5vvcB3FOwYRdF/eRCdw==}
+  '@book000/eslint-config@1.17.0':
+    resolution: {integrity: sha512-tzvBdGWCjgkurB4xXC/tICEv7yQiXyRduJVlsQYI9VQnfRgBe4+ADRc9UitbaKfLZ8E1bXfwTkhiNM+n7hn/9A==}
     peerDependencies:
       eslint: 10.14.0
 
@@ -1681,7 +1681,7 @@ snapshots:
 
   '@bcoe/v8-coverage@1.0.2': {}
 
-  '@book000/eslint-config@1.16.125(eslint@10.14.0)(typescript@6.0.3)':
+  '@book000/eslint-config@1.17.0(eslint@10.14.0)(typescript@6.0.3)':
     dependencies:
       '@typescript-eslint/parser': 8.72.2(eslint@10.14.0)(typescript@6.0.3)
       eslint: 10.14.0
